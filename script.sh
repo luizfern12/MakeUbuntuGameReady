@@ -1,7 +1,5 @@
 #!/bin/bash
 
-sudo su
-
 #Atualização do sistema
 apt update -y
 apt upgrade -y
